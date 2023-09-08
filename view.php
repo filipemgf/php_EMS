@@ -28,7 +28,7 @@ require_once "db.php";
 </head>
 <body>
     <?php require "notification.php" ?>
-
+    <a href="index.php">Home</a>
     <table>
         <caption>All employees</caption>
         <thead>
